@@ -9,3 +9,4 @@ build/
 /.vs
 
 *.blend1
+.vscode
